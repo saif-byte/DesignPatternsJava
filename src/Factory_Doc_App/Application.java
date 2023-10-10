@@ -17,6 +17,7 @@ public class Application {
     public void revertdoc(Document d){
         d.revert();
 
+
     }
 
 
